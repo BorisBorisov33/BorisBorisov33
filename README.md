@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+    I am Boris Borisov and currently I am a data scientist intern at VMWare Bulgaria.
 
-<!--
-**BorisBorisov33/BorisBorisov33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving customer satisfaction by using company's products.
+- 🌱 I’m currently learning additional courses from the Bulgarian company: SoftUni.
+- 💬 Ask me about you would like
+- 📫 How to reach me: bobbyborisov16@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Courses completed
+- Python Basics 
+- Python Fundamentals 
