@@ -5,8 +5,9 @@
 
 - 🔭 I’m currently working on improving customer satisfaction by using company's products.
 - 🌱 I’m currently studying additional courses from the Bulgarian software university: SoftUni.
-- 💬 Ask me about you would like
+- 💬 Ask me about you would like to know about me
 - 📫 How to reach me: bobbyborisov16@gmail.com
+- 👔 Let's connect on LinkedIn: https://www.linkedin.com/in/boris-borisovv/
 
 ### Completed courses
 
