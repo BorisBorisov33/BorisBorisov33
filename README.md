@@ -13,6 +13,7 @@
 
 - Python Basics 
 - Python Fundamentals
+- ongoing Machine Learning
 
 ### Some of the projects that you can find in my GitHub
 
