@@ -1,5 +1,5 @@
  ### Hello everyone 👋
-   🧑‍🎓 I am Boris Borisov and currently I am a data scientist/ senior solution consultant at BRIGHT.
+   🧑‍🎓 I am Boris Borisov and currently I am a Data Scientist/Senior Solution Consultant at BRIGHT.
 
  ### About Me
 
