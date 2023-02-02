@@ -9,7 +9,7 @@
 - 📫 How to reach me: bobbyborisov16@gmail.com
 - 👔 Let's connect on LinkedIn: https://www.linkedin.com/in/boris-borisovv/
 
-### Completed courses
+### Completed courses 🏫
 
 - Python Basics 
 - Python Fundamentals
@@ -17,7 +17,7 @@
 - Deep Learning
 
 
-### Some of the projects that you can find in my GitHub
+### Some of the projects that you can find in my GitHub 🏫
 
 - Bachelor Thesis Project on Detecting Bias in Recommender systems
 - Statistical Analysis Assignment
@@ -32,13 +32,14 @@
 - Tetris Game on Java
 - Golf Game - with options for Artificial Inteligence bot and manually play by human
 
-### Papers reviewed
+### Papers reviewed 📝
 
 - Recommendation systems
 - Deep Learning
 
-### More
-- More than 20 repositories from open-sources project in GitHub
+### More 💼
+
+- More than 20 repositories from open-sources projects in GitHub
 - More than 20 projects developed on the platform DataRobot AI Cloud
 
 
