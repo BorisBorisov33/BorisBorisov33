@@ -1,10 +1,10 @@
  ### Hello everyone 👋
-   🧑‍🎓 I am Boris Borisov and currently I am a Data Scientist/Senior Solution Consultant at BRIGHT.
+   🧑‍🎓 I am Boris Borisov and I am a Data Scientist/Senior Solution Consultant at BRIGHT.
 
  ### About Me
 
-- 🔭 I’m currently working on an automated Machine Learning/ Deep Learning processes with DataRobot AI Cloud.
-- 🌱 I’m currently studying additional courses from the Bulgarian software university: SoftUni.
+- 🔭 I’m working on an automated Machine Learning/ Deep Learning processes with DataRobot AI Cloud.
+- 🌱 I’m studying additional courses from the Bulgarian software university: SoftUni.
 - 💬 Ask me about you would like to know about me
 - 📫 How to reach me: bobbyborisov16@gmail.com
 - 👔 Let's connect on LinkedIn: https://www.linkedin.com/in/boris-borisovv/
