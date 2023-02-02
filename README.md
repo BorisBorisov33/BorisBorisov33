@@ -1,9 +1,9 @@
  ### Hello everyone 👋
-   🧑‍🎓 I am Boris Borisov and currently I am a data scientist intern at VMWare Bulgaria.
+   🧑‍🎓 I am Boris Borisov and currently I am a data scientist/ senior solution consultant at BRIGHT.
 
  ### About Me
 
-- 🔭 I’m currently working on improving customer satisfaction by using company's products.
+- 🔭 I’m currently working on an automated Machine Learning/ Deep Learning processes with DataRobot AI Cloud.
 - 🌱 I’m currently studying additional courses from the Bulgarian software university: SoftUni.
 - 💬 Ask me about you would like to know about me
 - 📫 How to reach me: bobbyborisov16@gmail.com
@@ -13,7 +13,9 @@
 
 - Python Basics 
 - Python Fundamentals
-- ongoing Machine Learning
+- Machine Learning
+- Deep Learning
+
 
 ### Some of the projects that you can find in my GitHub
 
