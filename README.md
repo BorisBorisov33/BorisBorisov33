@@ -31,3 +31,14 @@
 - Speech Recognition Project
 - Tetris Game on Java
 - Golf Game - with options for Artificial Inteligence bot and manually play by human
+
+### Papers reviewed
+
+- Recommendation systems
+- Deep Learning
+
+### More
+- More than 20 repositories from open-sources project in GitHub
+- More than 20 projects developed on the platform DataRobot AI Cloud
+
+
