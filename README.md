@@ -1,9 +1,10 @@
  ### Hello everyone 👋
-   🧑‍🎓 I am Boris Borisov and I am a Data Scientist/Senior Solution Consultant at BRIGHT.
+   🧑‍🎓 I am Boris Borisov and I am a Data Scientist at Paysafe.
 
  ### About Me
 
-- 🔭 I’m working on an automated Machine Learning/ Deep Learning processes with DataRobot AI Cloud.
+-  I am working on important financial ML projects and challenging Deep Learning projects in Feedzai, HDFS and AWS. 
+- 🔭 I have the experince of working on an automated Machine Learning/ Deep Learning processes with DataRobot AI Cloud.
 - 🌱 I’m studying additional courses from the Bulgarian software university: SoftUni.
 - 💬 Ask me about you would like to know about me
 - 📫 How to reach me: bobbyborisov16@gmail.com
